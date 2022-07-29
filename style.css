@@ -10,7 +10,6 @@ html, body{
     font-family: "lato", sans-serif;
 }
 
-
 /* first and last section and image section style start */
 /* first and last section and image section style start */
 
@@ -25,7 +24,6 @@ html, body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 .parallax-heading-one{
     position: absolute;
     top: 50%;
@@ -41,7 +39,6 @@ html, body{
     padding: 25px 40px;
     border-radius: 15px;
 }
-
 .section-one{
     padding: 50px 80px;
     text-align: center;
@@ -52,12 +49,8 @@ html, body{
     background-color: #2b2e2b;
 }
 
-
-
-
 /* Second section style start */
 /* Second section style start */
-
 
 .parallax-img-two{
     background-image: url(image2.jpg);
@@ -71,14 +64,8 @@ html, body{
     background-repeat: no-repeat;
 }
 
-
-
-
-
 /* Thired Section style start */
 /* Thired Section style start */
-
-
 
 .parallax-img-three{
     background-image: url(image3.jpg);
